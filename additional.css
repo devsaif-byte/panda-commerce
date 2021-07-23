@@ -1,0 +1,13 @@
+.btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+.for-hero-bg-color-with-additional-class,
+.for-footer-bg-color,
+.for-hero-price-color {
+  background-color: #fceae8 !important;
+}
